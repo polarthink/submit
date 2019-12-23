@@ -2,6 +2,7 @@
     "name": "polarthink/submit",
     "description": "搜索引擎收录接口封装",
     "type": "library",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "肖庆平",
